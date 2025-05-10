@@ -1,6 +1,6 @@
 # Solidity Learning
 
-info: [https://docs.soliditylang.org/en/v0.8.30/](Solidity Docs)
+info: [Solidity Docs](https://docs.soliditylang.org/en/v0.8.30/) 
  ---
 # Structures in Solidity
 
